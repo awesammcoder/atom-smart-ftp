@@ -8,4 +8,4 @@ An atom ftp package with realtime event watcher for files and directories indica
 >
 
 ## Contributors
->
+> This are the list of contributors [here](https://github.com/smmllgtp/atom-smart-ftp/graphs/contributors)
