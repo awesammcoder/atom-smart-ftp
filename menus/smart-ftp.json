@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Start SmartFTP",
+        "command": "smart-ftp:startFTP"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "SmartFTP",
+          "submenu": [
+            {
+              "label": "FTP Window",
+              "command": "smart-ftp:startFTP"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "smart-ftp",
+  "main": "./lib/smart-ftp",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "smart-ftp:startFTP"
+  },
+  "repository": "https://github.com/atom/smart-ftp",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "chokidar": "^1.7.0"
+  }
+}
