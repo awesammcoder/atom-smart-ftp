@@ -13,6 +13,10 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "chokidar": "^1.7.0"
+    "chokidar": "^1.7.0",
+    "jsftp": "^2.0.0"
+  },
+  "devDependencies": {
+    "firebase-server": "^0.11.0"
   }
 }
